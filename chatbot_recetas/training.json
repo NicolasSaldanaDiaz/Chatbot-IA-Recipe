@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuál es tu nombre?",
+      "answer": "Soy un chatbot, así que no tengo un nombre propio."
+    },
+    {
+      "question": "¿Cómo estás?",
+      "answer": "Como soy un programa, no tengo emociones, pero gracias por preguntar."
+    },
+    {
+      "question": "¿Puedes ayudarme a cocinar?",
+      "answer": "¡Claro! ¿En qué receta necesitas ayuda?"
+    },
+    {
+      "question": "¿Qué es spaCy?",
+      "answer": "spaCy es una biblioteca de procesamiento de lenguaje natural para Python."
+    },
+    {
+      "question": "Hola",
+      "answer": "Hola que tal?"
+    },
+    {
+      "question": "economia",
+      "answer": "La economía estudia cómo las sociedades utilizan sus recursos limitados para producir y distribuir bienes y servicios, desde las necesidades humanas más básicas hasta el comercio internacional y la innovación tecnológica, incidiendo directamente en la vida de las personas."
+    },
+    {
+      "question": "Anchoveta de pescado",
+      "answer": "Ingredientes: •\t½ kg de anchoveta •\t1 cebolla pequeña •\t1 taza de chicha de jora •\t1 ½ taza de arroz •\t½ kg de camote •\t½ taza de aceite vegetal •\t¼ taza de harina de trigo •\tAjos, ají especial molido, orégano, pimienta, cominos y sal yodada al gusto. Preparación: •\tApanar las anchovetas en harina sazonada con sal y pimienta, luego freírlas en aceite vegetal. •\tAderezar en aceite vegetal los ajos, la cebolla cortada en cuadritos pequeños y el ají especial, dejar dorar. Sazonar con sal y pimienta. •\tIncorporar las anchovetas, agregar la chicha de jora y el orégano, tapar y dejar cocinar a fuego lento por unos minutos. •\tServir sobre rodajas de camote sancochado y arroz graneado."
+    },
+    {
+      "question": "frijoles con acelga",
+      "answer": "Ingredientes: •\t¼ kg de frijol •\t1 ½ taza de arroz •\t2 trozos medianos de tocino •\t3 tazas de acelga •\t1 cebolla pequeña •\t1 tomate pequeño •\t1 pimiento pequeño •\t¼ taza de aceite vegetal •\tAjos, ají colorado molido, orégano, pimienta y sal yodada al gusto. Preparación: •\tCocinar el tocino cortado en tiras delgadas y el frijol previamente remojado el día anterior a la preparación. •\tCalentar aceite vegetal y dorar la cebolla cortada en cuadritos pequeños, los ajos y el ají colorado; incorporar el tomate y el pimiento cortados en cuadritos pequeños, sazonar con orégano, sal yodada y pimienta. •\tAgregar a la preparación anterior los frijoles y el tocino, después incorporar la acelga cortada en tiras delgadas y dejar cocinar por unos minutos. •\tMezclar bien y servir con arroz graneado."
+    }
+  ]
+}
